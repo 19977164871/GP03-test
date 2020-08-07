@@ -56,7 +56,7 @@
 3. git clone  
 4. 注意：要先更新本地仓库，然后下载远程仓库的项目到本地，然后再提交到远程仓库
 
-## eq:返回
+## eq   返回
 
 ## git branch
 1. 查看分支
@@ -67,6 +67,8 @@
  
 ## git checkout 分支名
 1. 切换分支
+
+## test2修改
 
 ```css
 border-color:red;
