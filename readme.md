@@ -68,12 +68,9 @@
 ## git checkout 分支名
 1. 切换分支
 
-<<<<<<< HEAD
 ## master修改2
-=======
 ## git merge 分支名
 1. 合并分支
->>>>>>> test2
 
 ```css
 border-color:red;
