@@ -60,8 +60,13 @@
 
 ## git branch
 1. 查看分支
+2. 当前分支前面有*
 
-
+## git branch 分支名
+1. 创建分支
+ 
+## git checkout 分支名
+1. 切换分支
 
 ```css
 border-color:red;
