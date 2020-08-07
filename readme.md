@@ -72,6 +72,17 @@
 ## git merge 分支名
 1. 合并分支
 
+## git branch -d 分支名
+1. 删除分支
+
+## git push origin 分支名
+1. 提交分支到远程(-u是之前设置的默认提交分支--master)
+
+
+## git remote rm origin
+1. 删除关联
+
+
 ```css
 border-color:red;
 ```
